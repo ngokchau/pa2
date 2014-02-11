@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="QuerySuggestion" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="3" osVersion="*" schemaVersion="2013-10.2.2">
+  <Role name="QuerySuggestionWebRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=querysuggestionblob;AccountKey=1EJj9re61RV31MvouSpoOoEo1c43j9SpFb892dWFV+jWhRR/il9SoHl2KEfQcVEFUhbWJ4wCXtodi7bK1S7NRw==" />
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>
