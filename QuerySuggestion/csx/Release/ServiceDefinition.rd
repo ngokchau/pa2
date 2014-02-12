@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="QuerySuggestion" generation="1" functional="0" release="0" Id="c4fa45f5-ec69-43c6-ad2b-c2786c2a09bf" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
+<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="QuerySuggestion" generation="1" functional="0" release="0" Id="17b3c862-62d1-4512-b7d7-055338146636" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
   <groups>
     <group name="QuerySuggestionGroup" generation="1" functional="0" release="0">
       <componentports>
@@ -70,9 +70,9 @@
     </group>
   </groups>
   <implements>
-    <implementation Id="681d00a6-271d-4d19-baac-aecb14e42073" ref="Microsoft.RedDog.Contract\ServiceContract\QuerySuggestionContract@ServiceDefinition">
+    <implementation Id="efd62877-9898-48b3-aae8-cd30e8142362" ref="Microsoft.RedDog.Contract\ServiceContract\QuerySuggestionContract@ServiceDefinition">
       <interfacereferences>
-        <interfaceReference Id="694ba1bc-255d-4512-9ecc-8e3d5e2e84af" ref="Microsoft.RedDog.Contract\Interface\QuerySuggestionWebRole:Endpoint1@ServiceDefinition">
+        <interfaceReference Id="e0ea97af-9797-4701-bc4a-de51276e4e12" ref="Microsoft.RedDog.Contract\Interface\QuerySuggestionWebRole:Endpoint1@ServiceDefinition">
           <inPort>
             <inPortMoniker name="/QuerySuggestion/QuerySuggestionGroup/QuerySuggestionWebRole:Endpoint1" />
           </inPort>

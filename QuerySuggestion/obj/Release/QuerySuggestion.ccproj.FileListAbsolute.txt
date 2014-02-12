@@ -36,7 +36,10 @@ C:\Users\Chau\Documents\Visual Studio 2013\Projects\Web\QuerySuggestion\QuerySug
 C:\Users\Chau\Documents\Visual Studio 2013\Projects\Web\QuerySuggestion\QuerySuggestion\obj\Release\QuerySuggestionWebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
 C:\Users\Chau\Documents\Visual Studio 2013\Projects\Web\QuerySuggestion\QuerySuggestion\obj\Release\QuerySuggestionWebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
 C:\Users\Chau\Documents\Visual Studio 2013\Projects\Web\QuerySuggestion\QuerySuggestion\obj\Release\QuerySuggestionWebRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Chau\Documents\Visual Studio 2013\Projects\Web\QuerySuggestion\QuerySuggestion\obj\Release\QuerySuggestionWebRole\bootstrap.min.css
+C:\Users\Chau\Documents\Visual Studio 2013\Projects\Web\QuerySuggestion\QuerySuggestion\obj\Release\QuerySuggestionWebRole\bootstrap.min.js
 C:\Users\Chau\Documents\Visual Studio 2013\Projects\Web\QuerySuggestion\QuerySuggestion\obj\Release\QuerySuggestionWebRole\index.html
+C:\Users\Chau\Documents\Visual Studio 2013\Projects\Web\QuerySuggestion\QuerySuggestion\obj\Release\QuerySuggestionWebRole\jquery-1.10.2.min.js
 C:\Users\Chau\Documents\Visual Studio 2013\Projects\Web\QuerySuggestion\QuerySuggestion\obj\Release\QuerySuggestionWebRole\packages.config
 C:\Users\Chau\Documents\Visual Studio 2013\Projects\Web\QuerySuggestion\QuerySuggestion\obj\Release\QuerySuggestionWebRole\QuerySuggestion.asmx
 C:\Users\Chau\Documents\Visual Studio 2013\Projects\Web\QuerySuggestion\QuerySuggestion\obj\Release\QuerySuggestionWebRole\Web.config
