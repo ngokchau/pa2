@@ -2,12 +2,12 @@
     $.ajax({
         type: "POST",
         url: "QuerySuggestion.asmx/Search",
-        data: JSON.stringify({ input: $("#s").val() }),
+        data: JSON.stringify({ input: $("#s").val().trim() }),
         contentType: "application/json; charset=utf-8",
         dataType: 'json',
         success: function (data) {
             var dump = "";
-            if ($("#s").val() != "") {
+            if ($("#s").val() != "" && $("#s").val() != " ") {
                 for (var i = 0; i < data.d.length; i++) {
                     dump += data.d[i] + "<br />";
                 }
@@ -31,8 +31,4 @@ $.fn.addNewWord = function () {
             // alert(JSON.stringify(data));
         }
     });
-}
-
-$.fn.showAlert() = function() {
-    alert();
 }
